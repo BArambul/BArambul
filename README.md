@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BArambul
-- 👀 I’m interested in sports, drawing, math, and skateboarding.
+- I’m interested in sports, drawing, math, and skateboarding.
 - 🌱 I’m currently learning ECE 1310.
-- 💞️ I’m looking to collaborate on learining C++
+- I’m looking to collaborate on learining C++
 - 📫 How to reach me baarambul@cpp.edu
 
 <!---
